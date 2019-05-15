@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloConstraintActivity</string>
+    <string name="textcount">0</string>
+    <string name="button_label_toast">Say Hello</string>
+    <string name="button_lable_count">Count</string>
+    <string name="toast_message">Hello Toast</string>
+    <string name="button_label_zero">Zero</string>
+    <string name="hello_text">Hello!</string>
+    <string name="count_text">count</string>
+</resources>
